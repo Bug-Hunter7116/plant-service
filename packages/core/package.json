@@ -65,7 +65,7 @@
     "node-fetch": "2.6.7",
     "parse-author": "^2.0.0",
     "parse-github-url": "1.0.2",
-    "pretty-ms": "^7.0.0",
+    "pretty-ms": "^9.2.0",
     "requireg": "^0.2.2",
     "semver": "^7.0.0",
     "signale": "^1.4.0",
