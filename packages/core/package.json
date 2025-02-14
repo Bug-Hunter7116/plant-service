@@ -48,7 +48,7 @@
     "chalk": "^4.0.0",
     "cosmiconfig": "7.0.0",
     "deepmerge": "^4.0.0",
-    "dotenv": "^8.0.0",
+    "dotenv": "^16.4.7",
     "endent": "^2.1.0",
     "enquirer": "^2.3.4",
     "env-ci": "^5.0.1",
